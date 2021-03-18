@@ -1,0 +1,166 @@
+#container {
+    position: relative;
+    top: 4cm;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    background-image: url(./images/tim-cooper-DSgjjsjnvQQ-unsplash.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-bottom: 9cm;
+    padding-top: 2cm;
+    max-height: 2cm;
+    background-position: center;
+}
+#overview {
+    border: 1cm;
+    max-width: 12cm;
+    margin-left: 33cm;
+    text-align: right;
+    margin-top: -2cm;
+    color: honeydew;
+    font-size: 35px;
+}
+
+#master {
+    margin-top: 1cm;
+    color: rgb(202, 116, 4);
+    display: flex;
+    text-align: left;
+    font-size: 1cm;
+    margin-top: -6cm;
+    position: fixed;
+    margin-left: 2cm;
+}
+
+#overview {
+    border: 1cm;
+    max-width: 12cm;
+    margin-left: 33cm;
+    text-align: right;
+    margin-top: -2cm;
+    color: honeydew;
+    font-size: 35px;
+}
+
+
+#welcimg {
+    background-image: url(./images/daniel-tuttle--IHUF0jIey4-unsplash.jpg);
+    background-size: cover;
+    position: relative;
+    background-repeat: no-repeat;
+    width: 140px;
+    padding: 4cm;
+    text-align: center;
+    margin-left: 8cm;
+    margin-top: 3cm;
+}
+
+#welcp {
+    border: 1cm;
+    max-width: 12cm;
+    max-height: 22cm;
+    margin-left: 23cm;
+    text-align: right;
+    color: black;
+    font-size: 35px;
+    margin-top: -6cm;
+}
+
+
+#welcome {
+    width: 40cm;
+    border: 1px;
+    padding: 50px;
+    margin: 20px;
+    margin-left: 2cm;
+}
+
+#gallery {
+    display: inline-block;
+    width: 40cm;
+    height: 10cm;
+    border: 1px;
+    padding: 50px;
+    margin: 20px;
+    margin-left: 2.5cm;
+    margin-right: 1cm;
+    background-color: rgb(233, 184, 184);
+}
+
+#gal1 {
+    background-image: url(./images/jonathan-cooper-XRKjBUWaj-A-unsplash.jpg);
+    background-size: cover;
+    position: relative;
+    background-repeat: no-repeat;
+    width: 140px;
+    padding: 1cm;
+    text-align: center;
+    padding-bottom: 7cm;
+    padding-left: 5cm;
+    margin-left: 1cm;
+    background-position: center center;
+}
+
+#gal2 {
+    background-image: url(./images/william-moreland-auijD19Byq8-unsplash.jpg);
+    background-size: cover;
+    position: relative;
+    background-repeat: no-repeat;
+    width: 140px;
+    padding: 1cm;
+    text-align: center;
+    margin-left: 8cm;
+    padding-bottom: 7cm;
+    padding-left: 5cm;
+    margin-left: 14cm;
+    margin-top: -8cm;
+    background-position: center center;
+}
+
+
+#gal3 {
+    background-image: url(./images/jed-owen-aIn2wl7Lixc-unsplash.jpg);
+    background-size: cover;
+    position: relative;
+    background-repeat: no-repeat;
+    width: 140px;
+    padding: 1cm;
+    text-align: center;
+    margin-left: 8cm;
+    padding-bottom: 7cm;
+    padding-left: 5cm;
+    margin-left: 27cm;
+    margin-top: -8cm;
+}
+
+#bar {
+    background-color: white;
+    max-height: 3cm;
+    max-width: 30cm;
+    margin-left: 24cm;
+    position: fixed;
+    margin-top: -6cm;
+    font-size: 28px;
+}
+
+
+ul>li {
+    display: inline-flex;
+    text-align: justify;
+}
+
+#bar>ul>li {
+    margin-right: 1cm;
+}
+
+#bar a:hover {
+    background-color: darkviolet;
+    color: rgb(26, 26, 211);
+    transition: 5sec;
+}
+
+#homep a:hover {
+    background-color: rgb(150, 150, 150);
+    color: rgb(32, 30, 30);
+}
